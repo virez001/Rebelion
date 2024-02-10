@@ -9,6 +9,8 @@ http://190.61.43.117:45000/play/a05r
 http://190.61.43.117:45000/play/a03r
 #EXTINF:-1,CNN Espanol
 http://190.61.43.117:45000/play/a044
+#EXTINF:-1,CNN Espanol HD
+http://161.132.108.75:50001/play/a02r/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.61.43.117:45000/play/a06h
 #EXTINF:-1,Canal Institucional
@@ -23,6 +25,8 @@ http://190.61.43.117:45000/play/a03g
 http://190.61.43.117:45000/play/a02v
 #EXTINF:-1,Cartoon Network HD
 http://190.61.43.117:45000/play/a01y
+#EXTINF:-1,Cinecanal HD
+http://161.132.108.75:50001/play/a012/index.m3u8
 #EXTINF:-1,Cinemax
 http://190.61.43.117:45000/play/a05i
 #EXTINF:-1,City TV
