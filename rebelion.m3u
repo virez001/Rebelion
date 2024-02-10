@@ -144,44 +144,16 @@ http://190.61.43.117:45000/play/a024
 
 
 
-#EXTINF:-1,Disney Channel (new)
-http://190.61.43.117:45000/play/a06b
-#EXTINF:-1,Disney Channel (mexico)
-
-#EXTINF:-1,Disney Junior
-http://190.61.43.117:45000/play/a045
-#EXTINF:-1,Cartoon Network
-
-#EXTINF:-1,Discovery kids
-http://160.20.165.245:8000/play/a016/index.m3u8
-#EXTINF:-1,Nickelodeon
-
-#EXTINF:-1,Teen Nick
 
 
 
 
 
-#EXTINF:-1,Caracol (new)
-http://190.61.43.117:45000/play/a02v
-#EXTINF:-1,Canal uno (new)
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
-#EXTINF:-1,Cnn Español (new - posible error de reproduccion)
-http://161.132.108.75:50001/play/a02r/index.m3u8
-#EXTINF:-1,Rcn (new - posible error de reproduccion)
-http://161.132.108.75:50001/play/a02z/index.m3u8
-
-#EXTINF:-1,TLC (new)
-http://190.61.43.117:45000/play/a042
 
 
 
-#EXTINF:-1,A&E
-http://160.20.165.245:8000/play/a00k/index.m3u8
-#EXTINF:-1,Cine Canal
 
-#EXTINF:-1,FX (new)
-http://190.149.66.90:4000/play/a01o/index.m3u8
+
 #EXTINF:-1,Hbo (new)
 http://161.132.108.75:50001/play/a015/index.m3u8
 #EXTINF:-1,Hbo (2 - new)
