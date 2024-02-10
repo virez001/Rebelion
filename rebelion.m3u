@@ -47,6 +47,8 @@ http://190.61.43.117:45000/play/a06b
 http://161.132.108.75:50001/play/a00e/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.61.43.117:45000/play/a045
+#EXTINF:-1,DW
+http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://190.61.43.117:45000/play/a053
 #EXTINF:-1,ESPN 3 HD
@@ -159,8 +161,7 @@ http://160.20.165.245:8000/play/a016/index.m3u8
 
 
 
-#EXTINF:-1,DW
-http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
 #EXTINF:-1,Caracol (new)
 http://190.61.43.117:45000/play/a02v
 #EXTINF:-1,Canal uno (new)
