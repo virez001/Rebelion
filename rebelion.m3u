@@ -129,8 +129,12 @@ http://190.61.43.117:45000/play/a05w
 http://190.61.43.117:45000/play/a05o
 #EXTINF:-1,Win
 http://190.61.43.117:45000/play/a067
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1,Win Sports+
+http://190.95.220.212:8000/play/a01j/index.m3u8
+#EXTINF:-1,Win Sports+ (no audio) HD
 http://190.61.43.117:45000/play/a024
+#EXTINF:-1,Win Sports+ HD
+http://201.222.44.220:4227/play/a022/index.m3u8
 
 
 
