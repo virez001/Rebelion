@@ -7,6 +7,8 @@ http://190.61.43.117:45000/play/a05g
 http://190.61.43.117:45000/play/a05r
 #EXTINF:-1,Baby TV
 http://190.61.43.117:45000/play/a03r
+#EXTINF:-1,BBC World 
+http://190.149.66.90:4000/play/a018/index.m3u8
 #EXTINF:-1,CNN Espanol
 http://190.61.43.117:45000/play/a044
 #EXTINF:-1,CNN Espanol HD
