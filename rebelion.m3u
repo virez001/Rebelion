@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Disney Channel HD
+http://161.132.108.75:50001/play/a00e/index.m3u8
 #EXTINF:-1,AE Mundo
 http://190.61.43.117:45000/play/a05q
 #EXTINF:-1,AXN
@@ -43,8 +45,6 @@ http://190.61.43.117:45000/play/a019
 http://190.61.43.117:45000/play/a040
 #EXTINF:-1,Disney Channel
 http://190.61.43.117:45000/play/a06b
-#EXTINF:-1,Disney Channel HD
-http://161.132.108.75:50001/play/a00e/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.61.43.117:45000/play/a045
 #EXTINF:-1,DW
