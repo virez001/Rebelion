@@ -23,15 +23,13 @@ http://170.82.37.21:8000/play/a00l/index.m3u8
 http://190.61.43.117:45000/play/a03r
 #EXTINF:-1,Baby TV HD
 http://170.82.37.21:8000/play/a00n/index.m3u8
-#EXTINF:-1,BBC World 
-http://190.149.66.90:4000/play/a018/index.m3u8
 #EXTINF:-1,CNN Espanol
 http://190.61.43.117:45000/play/a044
 #EXTINF:-1,CNNE Espanol HD
 http://170.82.37.21:8000/play/a021/index.m3u8
 #EXTINF:-1,Canal 11
 http://170.82.37.21:8000/play/a00c/index.m3u8
-#EXTINF:-1,Canal 12 - SV
+#EXTINF:-1,Canal 12 
 http://170.82.37.21:8000/play/a03s/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.61.43.117:45000/play/a06h
