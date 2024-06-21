@@ -123,6 +123,40 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 #EXTINF:-1,ESPN Extra (new)
 http://170.82.37.21:8000/play/a012/index.m3u8
 
+#EXTINF:-1,ESPN (ingles)
+http://190.95.220.212:8000/play/a01s/index.m3u8
+#EXTINF:-1,ESPN (argentina)
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1,ESPN (argentina) OPC2
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1,ESPN (argentina) OPC3
+http://200.60.124.19:29000/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO SV: CANAL 4
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 1
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 2
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 3
+http://45.41.213.34:70/TSN5/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 2
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO IN: SONY
+https://homeip.biz/livso/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CN: CCTV 5
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO PT: RTP
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO PT: RTP3 
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
 #EXTINF:-1,EXATV
 http://170.82.37.21:8000/play/a01u/index.m3u8
 #EXTINF:-1,El Trece | Argentina
