@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1,ESPN (with token)
 http://ar.pricesaskeloadsc.com/starplus02/tracks-v1a1/mono.m3u8?token=365db45293e1a8184e706245a2fffc6fd376d3b4-6f-1719720100-1719687700
+#EXTINF:-1,ESPN OPC 2 (with token)
+https://fonz01.dlive.click/T2XXxP6joW-htGaWBFVC2w/1719717769/323830303a65323a396538303a6236323a643530643a386437383a393862363a35303439/ff612/playlist.m3u8?b=1
+
 #EXTINF:-1,Disney Channel
 http://190.61.43.117:45000/play/a06b
 #EXTINF:-1,CNC Monteria
