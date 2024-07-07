@@ -48,16 +48,12 @@ http://170.82.37.21:8000/play/a00t/index.m3u8
 http://170.82.37.21:8000/play/a040/index.m3u8
 #EXTINF:-1,DistritoComedia
 http://170.82.37.21:8000/play/a02c/index.m3u8
-#EXTINF:-1,DW
-http://161.132.108.75:50001/play/a02s/index.m3u8
 #EXTINF:-1,E Enterteiment
 http://170.82.37.21:8000/play/a03h/index.m3u8
 #EXTINF:-1,Ebenezer
 http://170.82.37.21:8000/play/a01p/index.m3u8
 #EXTINF:-1,Enlace
 http://170.82.37.21:8000/play/a01s/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://161.132.108.75:50001/play/a00v/index.m3u8
 
 #EXTINF:-1,ESPN (new)
 http://170.82.37.21:8000/play/a00y/index.m3u8
