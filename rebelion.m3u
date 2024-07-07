@@ -192,7 +192,6 @@ http://190.61.55.186:1010/play/a00a/index.m3u8
 
 #EXTINF:-1,------ Inicio paquete 2 --------
 http://190.61.55.186:1010/play/a00a/index.m3u8
-
 #EXTINF:-1,A3 Series
 http://170.82.37.21:8000/play/a01k/index.m3u8
 #EXTINF:-1,AMC
@@ -249,9 +248,6 @@ http://170.82.37.21:8000/play/a03h/index.m3u8
 http://170.82.37.21:8000/play/a01p/index.m3u8
 #EXTINF:-1,Enlace
 http://170.82.37.21:8000/play/a01s/index.m3u8
-
-
-
 #EXTINF:-1,EXATV
 http://170.82.37.21:8000/play/a01u/index.m3u8
 #EXTINF:-1,El Trece | Argentina
@@ -272,7 +268,6 @@ http://170.82.37.21:8000/play/a014/index.m3u8
 http://170.82.37.21:8000/play/a020/index.m3u8
 #EXTINF:-1,Golden Premier
 http://170.82.37.21:8000/play/a02e/index.m3u8
-
 #EXTINF:-1,HBO OPC 2
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1,HBO 2 OPC 2
@@ -283,7 +278,6 @@ http://170.82.37.21:8000/play/a02k/index.m3u8
 http://170.82.37.21:8000/play/a02m/index.m3u8
 #EXTINF:-1,HBO Plus OPC 2
 http://170.82.37.21:8000/play/a02o/index.m3u8
-
 #EXTINF:-1,HCH
 http://170.82.37.21:8000/play/a009/index.m3u8
 #EXTINF:-1,HOLATV
@@ -356,7 +350,6 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1,TyC Sports
 http://170.82.37.21:8000/play/a016/index.m3u8
-
 #EXTINF:-1,Universal Cinema OPC 2
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy OPC 2
@@ -371,13 +364,10 @@ http://170.82.37.21:8000/play/a03k/index.m3u8
 http://170.82.37.21:8000/play/a02z/index.m3u8
 #EXTINF:-1,Universal TV
 http://170.82.37.21:8000/play/a03m/index.m3u8
-
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1,Usa
 http://170.82.37.21:8000/play/a035/index.m3u8
-
-
 #EXTINF:-1,Win Sports+
 http://190.95.220.212:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
@@ -386,13 +376,15 @@ http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 #EXTINF:-1,ZooMoo
 http://170.82.37.21:8000/play/a00o/index.m3u8
-
 #EXTINF:-1,------ Fin paquete 2 --------
 http://190.61.55.186:1010/play/a00a/index.m3u8
 
+
+
+
+
 #EXTINF:-1,------ Futbol --------
 http://190.61.55.186:1010/play/a00a/index.m3u8
-
 #EXTINF:-1,ESPN (new)
 http://170.82.37.21:8000/play/a00y/index.m3u8
 #EXTINF:-1,ESPN 2 (new)
