@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Disney Channel OPC 2
-http://170.82.37.21:8000/play/a00t/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://190.61.55.186:1010/play/a01u/index.m3u8
 #EXTINF:-1,------ Inicio paquete 1 --------
 http://190.61.55.186:1010/play/a00a/index.m3u8
 #EXTINF:-1,A&E HD
