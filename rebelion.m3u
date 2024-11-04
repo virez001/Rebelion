@@ -1,458 +1,1068 @@
 #EXTM3U
-#EXTINF:-1,Disney Channel HD
-http://190.61.55.186:1010/play/a01u/index.m3u8
-#EXTINF:-1,------ Inicio paquete 1 --------
-http://190.61.55.186:1010/play/a00a/index.m3u8
-#EXTINF:-1,A&E HD
-http://190.61.55.186:1010/play/a01f/index.m3u8
-#EXTINF:-1,AMC HD
-http://190.61.55.186:1010/play/a00g/index.m3u8
-#EXTINF:-1,AXN HD
-http://190.61.55.186:1010/play/a01i/index.m3u8
-#EXTINF:-1,America TV HD
-http://190.61.55.186:1010/play/a00y/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://190.61.55.186:1010/play/a00o/index.m3u8
-#EXTINF:-1,Baby TV
-http://190.61.55.186:1010/play/a02j/index.m3u8
-#EXTINF:-1,CANAL 1 IP TDT
-http://190.61.55.186:1010/play/478/index.m3u8
-#EXTINF:-1,CARTOONITO IP 
-http://190.61.55.186:1010/play/714/index.m3u8
-#EXTINF:-1,CNN Chile HD
-http://190.61.55.186:1010/play/a01d/index.m3u8
-#EXTINF:-1,CNN Espaæol
-http://190.61.55.186:1010/play/a02l/index.m3u8
-#EXTINF:-1,CNN International
-http://190.61.55.186:1010/play/a02m/index.m3u8
-#EXTINF:-1,Canal  Capital
-http://190.61.55.186:1010/play/a02a/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://190.61.55.186:1010/play/a026/index.m3u8
-#EXTINF:-1,Canal Institucional HD
-http://190.61.55.186:1010/play/a01r/index.m3u8
-#EXTINF:-1,Canal TRO
-http://190.61.55.186:1010/play/a028/index.m3u8
-#EXTINF:-1,Caracol HD
-http://190.61.55.186:1010/play/a02p/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://190.61.55.186:1010/play/a02u/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://190.61.55.186:1010/play/a00f/index.m3u8
-#EXTINF:-1,Cinecanal IP
-http://190.61.55.186:1010/play/a02t/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://190.61.55.186:1010/play/a022/index.m3u8
-#EXTINF:-1,Cinemax IP
-http://190.61.55.186:1010/play/412/index.m3u8
-#EXTINF:-1,City TV
-http://190.61.55.186:1010/play/a02i/index.m3u8
-#EXTINF:-1,Comedy Central
-http://190.61.55.186:1010/play/a02d/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://190.61.55.186:1010/play/a023/index.m3u8
-#EXTINF:-1,Cristovisiðn
-http://190.61.55.186:1010/play/a02c/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR IP
-http://190.61.55.186:1010/play/458/index.m3u8
-#EXTINF:-1,DW (Deutsch +)
-http://190.61.55.186:1010/play/a02n/index.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://190.61.55.186:1010/play/a002/index.m3u8
-#EXTINF:-1,Discovery HD
-http://190.61.55.186:1010/play/a018/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://190.61.55.186:1010/play/a001/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://190.61.55.186:1010/play/a003/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://190.61.55.186:1010/play/a00e/index.m3u8
-#EXTINF:-1,Disney HD
-http://190.61.55.186:1010/play/a01u/index.m3u8
-#EXTINF:-1,E! HD
-http://190.61.55.186:1010/play/a00v/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.55.186:1010/play/a01n/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.55.186:1010/play/a02s/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.61.55.186:1010/play/a01x/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://190.61.55.186:1010/play/a006/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.61.55.186:1010/play/a00a/index.m3u8
-#EXTINF:-1,EWTN IP 
-http://190.61.55.186:1010/play/88/index.m3u8
-#EXTINF:-1,El Gourmet HD
-http://190.61.55.186:1010/play/a025/index.m3u8
-#EXTINF:-1,Enlace
-http://190.61.55.186:1010/play/a02b/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://190.61.55.186:1010/play/a007/index.m3u8
-#EXTINF:-1,FX HD
-http://190.61.55.186:1010/play/a009/index.m3u8
-#EXTINF:-1,Food Network HD
-http://190.61.55.186:1010/play/a00x/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://190.61.55.186:1010/play/a019/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://190.61.55.186:1010/play/a01y/index.m3u8
-#EXTINF:-1,GOLPERU
-http://190.61.55.186:1010/play/a02f/index.m3u8
-#EXTINF:-1,GOLPERU HD
-http://190.61.55.186:1010/play/a010/index.m3u8
-#EXTINF:-1,GolTV HD
-http://190.61.55.186:1010/play/a00w/index.m3u8
-#EXTINF:-1,Golden HD
-http://190.61.55.186:1010/play/a00s/index.m3u8
-#EXTINF:-1,HOLA TV HD
-http://190.61.55.186:1010/play/a01v/index.m3u8
-#EXTINF:-1,History 2 HD
-http://190.61.55.186:1010/play/a01a/index.m3u8
-#EXTINF:-1,History Channel HD
-http://190.61.55.186:1010/play/a01e/index.m3u8
-#EXTINF:-1,Las Estrellas HD
-http://190.61.55.186:1010/play/a017/index.m3u8
-#EXTINF:-1,Latina HD
-http://190.61.55.186:1010/play/a00z/index.m3u8
-#EXTINF:-1,Lolly Kids HD
-http://190.61.55.186:1010/play/a011/index.m3u8
-#EXTINF:-1,MEGA HD
-http://190.61.55.186:1010/play/a00c/index.m3u8
-#EXTINF:-1,MTV 00s
-http://190.61.55.186:1010/play/a021/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://190.61.55.186:1010/play/a00q/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://190.61.55.186:1010/play/a00d/index.m3u8
-#EXTINF:-1,Nick HD
-http://190.61.55.186:1010/play/a01p/index.m3u8
-#EXTINF:-1,Paramount HD
-http://190.61.55.186:1010/play/a00k/index.m3u8
-#EXTINF:-1,Pasiones
-http://190.61.55.186:1010/play/a02e/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://190.61.55.186:1010/play/a01t/index.m3u8
-#EXTINF:-1,RCN HD
-http://190.61.55.186:1010/play/a00b/index.m3u8
-#EXTINF:-1,RCN HD IP TDT
-http://190.61.55.186:1010/play/954/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://190.61.55.186:1010/play/a004/index.m3u8
-#EXTINF:-1,Señal Colombia HD
-http://190.61.55.186:1010/play/a00r/index.m3u8
-#EXTINF:-1,Sony HD
-http://190.61.55.186:1010/play/a01g/index.m3u8
-#EXTINF:-1,Space HD
-http://190.61.55.186:1010/play/a01j/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://190.61.55.186:1010/play/a00l/index.m3u8
-#EXTINF:-1,TELEMUNDO IP
-http://190.61.55.186:1010/play/654/index.m3u8
-#EXTINF:-1,TNT
-http://190.61.55.186:1010/play/a02o/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.61.55.186:1010/play/a01w/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
-http://190.61.55.186:1010/play/a01k/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://190.61.55.186:1010/play/a008/index.m3u8
-#EXTINF:-1,TRUTV HD
-http://190.61.55.186:1010/play/a024/index.m3u8
-#EXTINF:-1,TVN HD
-http://190.61.55.186:1010/play/a01s/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://190.61.55.186:1010/play/a02h/index.m3u8
-#EXTINF:-1,Telecafe
-http://190.61.55.186:1010/play/a029/index.m3u8
-#EXTINF:-1,Telecaribe
-http://190.61.55.186:1010/play/a027/index.m3u8
-#EXTINF:-1,Telepacifico
-http://190.61.55.186:1010/play/a02g/index.m3u8
-#EXTINF:-1,Tooncast
-http://190.61.55.186:1010/play/a02k/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://190.61.55.186:1010/play/a005/index.m3u8
-#EXTINF:-1,VENEVISION  IP
-http://190.61.55.186:1010/play/745/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://190.61.55.186:1010/play/a01h/index.m3u8
-#EXTINF:-1,Win Sports
-http://190.61.55.186:1010/play/a02r/index.m3u8
-#EXTINF:-1,Win Sports HD
-http://190.61.55.186:1010/play/a01m/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://190.61.55.186:1010/play/a00n/index.m3u8
-#EXTINF:-1,------ Fin paquete 1 --------
-http://190.61.55.186:1010/play/a00a/index.m3u8
 
+#EXTINF:-1, Disney
+http://168.181.122.234:8000/play/a038/index.m3u8
 
+#EXTINF:---------Deportes-----------------------
+http://000000
 
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN (col, ok)
+http://190.60.32.178:8178/play/a02k/index.m3u8
 
-
-#EXTINF:-1,------ Inicio paquete 2 --------
-http://190.61.55.186:1010/play/a00a/index.m3u8
-#EXTINF:-1,A3 Series
-http://170.82.37.21:8000/play/a01k/index.m3u8
-#EXTINF:-1,AMC
-http://170.82.37.21:8000/play/a01m/index.m3u8
-#EXTINF:-1,AXN HD
-http://170.82.37.21:8000/play/a001/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://170.82.37.21:8000/play/a017/index.m3u8
-#EXTINF:-1,Antena 3
-http://170.82.37.21:8000/play/a01n/index.m3u8
-#EXTINF:-1,Baby First
-http://170.82.37.21:8000/play/a00l/index.m3u8
-#EXTINF:-1,Baby TV HD
-http://170.82.37.21:8000/play/a00n/index.m3u8
-#EXTINF:-1,CNNE Espanol HD
-http://170.82.37.21:8000/play/a021/index.m3u8
-#EXTINF:-1,Canal 11
-http://170.82.37.21:8000/play/a00c/index.m3u8
-#EXTINF:-1,Canal 12 
-http://170.82.37.21:8000/play/a03s/index.m3u8
-#EXTINF:-1,Caracol HD
-http://190.95.220.212:8000/play/a02d/index.m3u8
-#EXTINF:-1,Cartoon Network HD OPC 2
-http://170.82.37.21:8000/play/a00u/index.m3u8
-#EXTINF:-1,Cartoonito
-http://170.82.37.21:8000/play/a00q/index.m3u8
-#EXTINF:-1,Cine Latino
-http://170.82.37.21:8000/play/a01o/index.m3u8
-#EXTINF:-1,Cinecanal
-http://170.82.37.21:8000/play/a022/index.m3u8
-#EXTINF:-1,Cinemax
-http://170.82.37.21:8000/play/a023/index.m3u8
-#EXTINF:-1,ComedyCentral
-http://170.82.37.21:8000/play/a02f/index.m3u8
-#EXTINF:-1,DHE
-http://170.82.37.21:8000/play/a026/index.m3u8
-#EXTINF:-1,DPelicula
-http://170.82.37.21:8000/play/a028/index.m3u8
-#EXTINF:-1,Discovery Science
-http://170.82.37.21:8000/play/a01b/index.m3u8
-#EXTINF:-1,Discovery Theather
-http://170.82.37.21:8000/play/a01c/index.m3u8
-#EXTINF:-1,Discovery World
-http://170.82.37.21:8000/play/a01e/index.m3u8
-#EXTINF:-1,Disney Channel OPC 2
-http://170.82.37.21:8000/play/a00t/index.m3u8
-#EXTINF:-1,Disney Junior OPC 2
-http://170.82.37.21:8000/play/a040/index.m3u8
-#EXTINF:-1,DistritoComedia
-http://170.82.37.21:8000/play/a02c/index.m3u8
-#EXTINF:-1,E Enterteiment
-http://170.82.37.21:8000/play/a03h/index.m3u8
-#EXTINF:-1,Ebenezer
-http://170.82.37.21:8000/play/a01p/index.m3u8
-#EXTINF:-1,Enlace
-http://170.82.37.21:8000/play/a01s/index.m3u8
-#EXTINF:-1,EXATV
-http://170.82.37.21:8000/play/a01u/index.m3u8
-#EXTINF:-1,El Trece | Argentina
-http://170.82.37.21:8000/play/a043/index.m3u8
-#EXTINF:-1,ElGourmet
-http://170.82.37.21:8000/play/a03e/index.m3u8
-#EXTINF:-1,Euro Channel
-http://170.82.37.21:8000/play/a02a/index.m3u8
-#EXTINF:-1,Europa Europa
-http://170.82.37.21:8000/play/a02b/index.m3u8
-#EXTINF:-1,FX
-http://170.82.37.21:8000/play/a02d/index.m3u8
-#EXTINF:-1,Film & Arts
-http://170.82.37.21:8000/play/a01i/index.m3u8
-#EXTINF:-1,Fox Sports 3 OPC 2
-http://170.82.37.21:8000/play/a014/index.m3u8
-#EXTINF:-1,France24
-http://170.82.37.21:8000/play/a020/index.m3u8
-#EXTINF:-1,Golden Premier
-http://170.82.37.21:8000/play/a02e/index.m3u8
-#EXTINF:-1,HBO OPC 2
-http://170.82.37.21:8000/play/a02g/index.m3u8
-#EXTINF:-1,HBO 2 OPC 2
-http://170.82.37.21:8000/play/a02i/index.m3u8
-#EXTINF:-1,HBO Extreme OPC 2
-http://170.82.37.21:8000/play/a02k/index.m3u8
-#EXTINF:-1,HBO Family OPC 2
-http://170.82.37.21:8000/play/a02m/index.m3u8
-#EXTINF:-1,HBO Plus OPC 2
-http://170.82.37.21:8000/play/a02o/index.m3u8
-#EXTINF:-1,HCH
-http://170.82.37.21:8000/play/a009/index.m3u8
-#EXTINF:-1,HOLATV
-http://170.82.37.21:8000/play/a03d/index.m3u8
-#EXTINF:-1,HTV
-http://170.82.37.21:8000/play/a01v/index.m3u8
-#EXTINF:-1,History OPC 2
-http://170.82.37.21:8000/play/a01f/index.m3u8
-#EXTINF:-1,History 2
-http://170.82.37.21:8000/play/a01g/index.m3u8
-#EXTINF:-1,LTV
-http://170.82.37.21:8000/play/a049/index.m3u8
-#EXTINF:-1,La Liga
-http://170.82.37.21:8000/play/a048/index.m3u8
-#EXTINF:-1,Lifetime
-http://170.82.37.21:8000/play/a02q/index.m3u8
-#EXTINF:-1,MTV
-http://170.82.37.21:8000/play/a01y/index.m3u8
-#EXTINF:-1,MTV00s
-http://170.82.37.21:8000/play/a01x/index.m3u8
-#EXTINF:-1,Mega Clasicos
-http://170.82.37.21:8000/play/a005/index.m3u8
-#EXTINF:-1,Multicinema
-http://170.82.37.21:8000/play/a02s/index.m3u8
-#EXTINF:-1,Multipremier
-http://170.82.37.21:8000/play/a02u/index.m3u8
-#EXTINF:-1,NatGeo OPC 2
-http://170.82.37.21:8000/play/a01h/index.m3u8
-#EXTINF:-1,Nick
-http://170.82.37.21:8000/play/a00v/index.m3u8
-#EXTINF:-1,Nick Jr.
-http://170.82.37.21:8000/play/a00r/index.m3u8
-#EXTINF:-1,Paramount Network
-http://170.82.37.21:8000/play/a02v/index.m3u8
-#EXTINF:-1,Pasiones OPC 2
-http://170.82.37.21:8000/play/a027/index.m3u8
-#EXTINF:-1,RCN Honduras
-http://170.82.37.21:8000/play/a046/index.m3u8
-#EXTINF:-1,Rhema TV
-http://170.82.37.21:8000/play/a03p/index.m3u8
-#EXTINF:-1,Semillitas
-http://170.82.37.21:8000/play/a00p/index.m3u8
-#EXTINF:-1,StarTVE
-http://170.82.37.21:8000/play/a039/index.m3u8
-#EXTINF:-1,Sony Channel
-http://170.82.37.21:8000/play/a02w/index.m3u8
-#EXTINF:-1,Sony Movies
-http://170.82.37.21:8000/play/a02y/index.m3u8
-#EXTINF:-1,Space OPC 2
-http://170.82.37.21:8000/play/a030/index.m3u8
-#EXTINF:-1,Sun Channel
-http://170.82.37.21:8000/play/a036/index.m3u8
-#EXTINF:-1,SyFy
-http://170.82.37.21:8000/play/a035/index.m3u8
-#EXTINF:-1,TVE
-http://170.82.37.21:8000/play/a032/index.m3u8
-#EXTINF:-1,Teen Nick
-http://170.82.37.21:8000/play/a00w/index.m3u8
-#EXTINF:-1,Telefe | Argentina
-http://170.82.37.21:8000/play/a042/index.m3u8
-#EXTINF:-1,Telehit Musica
-http://170.82.37.21:8000/play/a01w/index.m3u8
-#EXTINF:-1,Telemundo Internacional
-http://170.82.37.21:8000/play/a02r/index.m3u8
-#EXTINF:-1,Telemundo Miami
-http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1,Tigo Sports
-http://170.82.37.21:8000/play/a047/index.m3u8
-#EXTINF:-1,Tru TV
-http://170.82.37.21:8000/play/a034/index.m3u8
-#EXTINF:-1,TyC Sports
-http://170.82.37.21:8000/play/a016/index.m3u8
-#EXTINF:-1,Universal Cinema OPC 2
-http://170.82.37.21:8000/play/a03f/index.m3u8
-#EXTINF:-1,Universal Comedy OPC 2
-http://170.82.37.21:8000/play/a03g/index.m3u8
-#EXTINF:-1,Universal Crime 
-http://170.82.37.21:8000/play/a03i/index.m3u8
-#EXTINF:-1,Universal Premier OPC 2
-http://170.82.37.21:8000/play/a03j/index.m3u8
-#EXTINF:-1,Universal Premiere 2 
-http://170.82.37.21:8000/play/a03k/index.m3u8
-#EXTINF:-1,Universal Reality
-http://170.82.37.21:8000/play/a02z/index.m3u8
-#EXTINF:-1,Universal TV
-http://170.82.37.21:8000/play/a03m/index.m3u8
-#EXTINF:-1,Univision
-http://170.82.37.21:8000/play/a02x/index.m3u8
-#EXTINF:-1,Usa
-http://170.82.37.21:8000/play/a035/index.m3u8
-#EXTINF:-1,Win Sports+
-http://190.95.220.212:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1,ZooMoo
-http://170.82.37.21:8000/play/a00o/index.m3u8
-#EXTINF:-1,------ Fin paquete 2 --------
-http://190.61.55.186:1010/play/a00a/index.m3u8
-
-
-
-
-
-#EXTINF:-1,------ Futbol --------
-http://190.61.55.186:1010/play/a00a/index.m3u8
-#EXTINF:-1,ESPN (new)
-http://170.82.37.21:8000/play/a00y/index.m3u8
-#EXTINF:-1,ESPN 2 (new)
-http://170.82.37.21:8000/play/a00z/index.m3u8
-#EXTINF:-1,ESPN 3 (new)
-http://170.82.37.21:8000/play/a010/index.m3u8
-#EXTINF:-1,ESPN 4 (new)
-http://170.82.37.21:8000/play/a011/index.m3u8
-
-#EXTINF:-1,ESPN (ingles)
-http://190.95.220.212:8000/play/a01s/index.m3u8
 #EXTINF:-1,ESPN (argentina)
-http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1,ESPN (argentina) OPC2
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1,ESPN (argentina) OPC3
 http://200.60.124.19:29000/play/a016/index.m3u8
-
-
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA NI: CANAL 13
-http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CO: WIN SPORTS+
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA GT: TV AZTECA
-https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA UY: TV CIUDAD
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA EC: ECDF
-http://tv.soccerplus.link:8000/julia35a/anticona34/868
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA ES: M+
-http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 2
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CN: CCTV 5
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sports (argentina)
-http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
-#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sport 2 (argentina)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
-
-#EXTINF:-1 group-title="Bics DEPORTES",  espn 3 (argentina)
-http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
-#EXTINF:-1 group-title="Bics DEPORTES",  fox sport 2 (argentina)
-http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
-#EXTINF:-1 group-title="Bics DEPORTES", fox 3 (argentina)
-http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+#EXTINF:-1,ESPN 5
+http://181.78.4.186:8000/play/a0fu/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TyC sports play (argentina)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", Tnt sports (chile)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
-#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORTS 2 (chile)
-http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
-#EXTINF:-1 group-title="Bics DEPORTES", Tnt estadio sports (chile)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
 
-#EXTINF:-1,ESPN (Colombia [error de latencia])
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1,ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
 
-#EXTINF:-1,------ fin de futbol--------
-http://190.61.55.186:1010/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94807.ts
+
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 01
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 04
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 05
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 06
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 07
+http://181.78.105.146:8800/play/a07h
+
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 11
+http://51.178.65.238/BeinSport/mono.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+http://190.60.32.178:8178/play/a0ab/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
+http://190.60.32.178:8178/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a0ad/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+
+
+
+
+
+#EXTINF:---------Regionales Colombia-----------------------
+http://000000
+#EXTINF:Canal CNC Medellin
+#EXTVLCOPT:network-caching=1000
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8?PlaylistM3UCL
+#EXTINF:9, Canal Institucional | CO
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:61, Canal Visión Dorada | CO
+#EXTVLCOPT:network-caching=1000
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:100, Caracol | CO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?PlaylistM3UCL
+#EXTINF:18, Cosmovisión | CO
+#EXTVLCOPT:network-caching=1000
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:30, CTV | CO
+#EXTVLCOPT:network-caching=1000
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:5, Melody Channel TV | CO
+#EXTVLCOPT:network-caching=1000
+https://melodychanneltv.moxapps.shop/live/GHkktiwlTkRa57Extm5Vl5Z6fC02/index.m3u8?PlaylistM3UCL
+#EXTINF:30, Señal Colombia | CO
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:166, Suram | CO
+#EXTVLCOPT:network-caching=1000
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
+#EXTINF:14, Tele Islas | CO
+#EXTVLCOPT:network-caching=1000
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:41, Telepacífico | CO
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+#EXTINF:6, Amordiscos TV | CO
+#EXTVLCOPT:network-caching=1000
+https://amordiscosretrotv.moxapps.shop/live/cdYgaZmmh2VPhscWTxBp1kd9Egb2/index.m3u8?PlaylistM3UCL
+#EXTINF:5, Telemusica | CO
+#EXTVLCOPT:network-caching=1000
+https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8?PlaylistM3UCL
+#EXTINF:30, Tele Familia | CO
+#EXTVLCOPT:network-caching=1000
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:47, TV Gracia | CO
+#EXTVLCOPT:network-caching=1000
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Recuerdos Retro Radio TV | CL
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV Señal 2 | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV Señal 3 | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:20, Tele Pasto | CO
+#EXTVLCOPT:network-caching=1000
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UCL
+#EXTINF:29, TV Peñol | CO
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Oasis TV | CO
+#EXTVLCOPT:network-caching=1000
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:33, Mundo de la Musica TV | CL
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8?PlaylistM3UCL
+#EXTINF:41, Salsagorda Television | US
+#EXTVLCOPT:network-caching=1000
+https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:---------Dibujos animados-----------------------
+http://000000
+#EXTINF:6932,Cuentos de Terramar
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Cuentos%20de%20Terramar.mp4
+#EXTINF:0,Earwig y la bruja
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Earwig%20y%20la%20bruja.mp4
+#EXTINF:0,El castillo en el cielo
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
+#EXTINF:0,El cuento de la princesa Kaguya
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF:0,El increible castillo vagabundo
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
+#EXTINF:0,El mundo secreto de Arrietty
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20mundo%20secreto%20de%20Arrietty.mp4
+#EXTINF:0,El recuerdo de Marnie
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
+#EXTINF:0,El regreso del gato
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20regreso%20del%20gato.mp4
+#EXTINF:0,El viaje de Chihiro
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20viaje%20de%20Chihiro.mp4
+#EXTINF:0,Kiki - Entregas a domicilio
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.mp4
+#EXTINF:0,La colina de las Amapolas
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
+#EXTINF:0,La princesa Mononoke
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20princesa%20Mononoke.mp4
+#EXTINF:0,La tortuga roja
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tortuga%20roja.mp4
+#EXTINF:0,La tumba de las Luciernagas
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
+#EXTINF:0,Mi vecino Totoro
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Mi%20vecino%20Totoro.mp4
+#EXTINF:0,Mis vecinos los Yamada
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Mis%20vecinos%20los%20Yamada.mp4
+#EXTINF:0,Pompoko
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Pompoko.mp4
+#EXTINF:0,Ponyo en el acantilado
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
+#EXTINF:0,Porco Rosso
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Porco%20Rosso.mp4
+#EXTINF:0,Puedo oir el mar
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Puedo%20oir%20el%20mar.mp4
+#EXTINF:0,Recuerdos del Ayer
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
+#EXTINF:0,Se levanta el viento
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
+#EXTINF:0,Susurros del Corazon
+#EXTVLCOPT:network-caching=1000
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
+
+
+
+
+
+
+#EXTINF:---------Dibujos animados-----------------------
+http://000000
+#EXTINF:1265,Las aventuras de Tintin - E1 Tintín en América
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4
+#EXTINF:2439,Las aventuras de Tintin - E2 Los cigarros del Faraón
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%202%20%20%20LOS%20CIGARROS%20DEL%20FARAON.mp4
+#EXTINF:2501,Las aventuras de Tintin - E3 El loto azul
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%203%20%20%20EL%20LOTO%20AZUL.mp4
+#EXTINF:0,Las aventuras de Tintin - E4 La oreja rota
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%204%20%20LA%20OREJA%20ROTA.mp4
+#EXTINF:0,Las aventuras de Tintin - E5 La isla negra
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%205%20%20LA%20ISLA%20NEGRA.mp4
+#EXTINF:0,Las aventuras de Tintin - E6 El cetro de Ottokar
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%206%20%20EL%20CETRO%20DE%20OTTOKAR.mp4
+#EXTINF:0,Las aventuras de Tintin - E7 El cangrejo de las pinzas de oro
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%207%20%20EL%20CANGREJO%20DE%20LAS%20PINZAS%20DE%20ORO.mp4
+#EXTINF:0,Las aventuras de Tintin - E8 La estrella misteriosa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%208%20%20LA%20ESTRELLA%20MISTERIOSA.mp4
+#EXTINF:0,Las aventuras de Tintin - E9 El secreto del unicornio
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%209%20%20EL%20SECRETO%20DEL%20UNICORNIO.mp4
+#EXTINF:0,Las aventuras de Tintin - E10 El tesoro de Rackham el Rojo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2010%20%20EL%20TESORO%20DE%20RACKHAM%20EL%20ROJO.mp4
+#EXTINF:0,Las aventuras de Tintin - E11 Las 7 bolas de cristal
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2011%20%20%20LAS%207%20BOLAS%20DE%20CRISTAL.mp4
+#EXTINF:0,Las aventuras de Tintin - E12 El templo del Sol
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2012%20%20%20EL%20TEMPLO%20DEL%20SOL.mp4
+#EXTINF:0,Las aventuras de Tintin - E13 Tintín en el país del Oro Negro
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2013%20%20%20TINTIN%20EN%20EL%20PAIS%20DEL%20ORO%20NEGRO.mp4
+#EXTINF:0,Las aventuras de Tintin - E14 Objetivo: la Luna
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2014%20%20%20OBJETIVO%20LA%20LUNA.mp4
+#EXTINF:0,Las aventuras de Tintin - E15 Aterrizaje en la Luna
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2015%20%20%20ATERRIZAJE%20EN%20LA%20LUNA.mp4
+#EXTINF:0,Las aventuras de Tintin - E16 El asunto Tornasol
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2016%20%20%20EL%20ASUNTO%20TORNASOL.mp4
+#EXTINF:0,Las aventuras de Tintin - E17 Stock de coque
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2017%20%20%20STOCK%20DE%20COQUE.mp4
+#EXTINF:0,Las aventuras de Tintin - E18 Tintín en el Tíbet
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2018%20%20%20TINTIN%20EN%20EL%20TIBET.mp4
+#EXTINF:0,Las aventuras de Tintin - E19 Las joyas de la Castafiore
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2019%20%20%20LAS%20JOYAS%20DE%20LA%20CASTAFIORE.mp4
+#EXTINF:0,Las aventuras de Tintin - E20 Vuelo 714 para Sídney
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2020%20%20%20VUELO%20714%20PARA%20SIDNEY.mp4
+#EXTINF:0,Las aventuras de Tintin - E21 Tintín y los pícaros
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/tintin-espanol/Cap%20%2021%20%20%20TINTIN%20Y%20LOS%20PICAROS.mp4
+#EXTINF:2624,Mr. Bean - Ataque de rana
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Ataque%20de%20rana_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Atrapado en el ascensor!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Atrapado%20en%20el%20ascensor_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Cuidar de la realeza
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Cuidar%20de%20la%20realeza%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - El Hotel de Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/El%20Hotel%20de%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - El Sr. Bean enamorado
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/El%20Sr.%20Bean%20enamorado%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - El Sr. Bean y el robot
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/El%20Sr.%20Bean%20y%20el%20robot%20%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - El viaje de compras reales del Sr Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/El%20viaje%20de%20compras%20reales%20del%20Sr%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - El viaje!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/El%20viaje_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - En una misión
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/En%20una%20misi%C3%B3n%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Excavación desastroza
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Excavaci%C3%B3n%20desastroza%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Frijol musical
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Frijol%20musical%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Joven Mr Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Joven%20Mr%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - La Pizza de Mr Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/La%20Pizza%20de%20Mr%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Mr%20Bean%20Espanol%28240P%29.mp4
+#EXTINF:0,Mr. Bean - La búsqueda del tesoro del Sr Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/La%20b%C3%BAsqueda%20del%20tesoro%20del%20Sr%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - La competición de la reina
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/La%20competici%C3%B3n%20de%20la%20reina%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - La pesadilla del Sr. Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/La%20pesadilla%20del%20Sr.%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Lord Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Lord%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Luchémos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Luch%C3%A9mos_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean el Artista
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20el%20Artista%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean el científico loco
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20el%20cient%C3%ADfico%20loco%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean el maestro de escuela 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20el%20maestro%20de%20escuela_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean juega al golf
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20juega%20al%20golf_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean se va de vacaciones 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20se%20va%20de%20vacaciones%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean sin hogar
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20sin%20hogar%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean va a surfear
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20va%20a%20surfear%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean va de incógnito
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20va%20de%20inc%C3%B3gnito%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el ladrón de pájaros
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20ladr%C3%B3n%20de%20p%C3%A1jaros%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el mago
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20mago%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el mimo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20mimo%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el mono
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20mono%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el niño aparato
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20ni%C3%B1o%20aparato%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el topo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20topo%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y el vecino ruidoso
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20el%20vecino%20ruidoso%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Mr Bean y la enfermera
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Mr%20Bean%20y%20la%20enfermera%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Noche de cita
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Noche%20de%20cita%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Qué desastre Mr Bean! 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Qu%C3%A9%20desastre%20Mr%20Bean_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Sr. Bean y su gemelo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Sr.%20Bean%20y%20su%20gemelo_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Teddy desaparece!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Teddy%20desaparece_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Toca esa canción Mr Bean
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Toca%20esa%20canci%C3%B3n%20Mr%20Bean%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - Un Mr Bean Real
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/Un%20Mr%20Bean%20Real%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Demasiado ruido!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Demasiado%20ruido_%20%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡El ladrón de periódicos!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1El%20ladr%C3%B3n%20de%20peri%C3%B3dicos_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Feliz Cumpleaños Teddy!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Feliz%20Cumplea%C3%B1os%20Teddy_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Guerras de coches!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Guerras%20de%20coches_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡La película de terror!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1La%20pel%C3%ADcula%20de%20terror_%20%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Mr Bean va de cámping!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Mr%20Bean%20va%20de%20c%C3%A1mping_%20%20%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Señor Bean el hombre aparato!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Se%C3%B1or%20Bean_%20el%20hombre%20aparato__%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Sr. Bean el hombre musculoso!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Sr.%20Bean%20el%20hombre%20musculoso_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Sr. Bean y el ladrón de arte!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Sr.%20Bean%20y%20el%20ladr%C3%B3n%20de%20arte_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:0,Mr. Bean - ¡Tiempo para una limpieza!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/mrbeanespanol/%C2%A1Tiempo%20para%20una%20limpieza_%20_%20Mr%20Bean%20Animado%20_%20Episodios%20Completos%20_%20Viva%20Mr%20Bean%28240P%29.mp4
+#EXTINF:1243,Onegai My Melody - T1 E01
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%201%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E02
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%202%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E03
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%203%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E04
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%204%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E05
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%205%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E06
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%206%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E07
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%207%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E08
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%208%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E09
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%209%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E10
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2010%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E11
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2011%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E12
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2012%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E13
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2013%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E14
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2014%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E15
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2015%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E16
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2016%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E17
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2017%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E18
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2018%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E19
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2019%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E20
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2020%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E21
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2021%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E22
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2022%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E23
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2023%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E24
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2024%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E25
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2025%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E26
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2026%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E27
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2027%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E28
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2028%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E29
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2029%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E30
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2030%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E31
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2031%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E32
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2032%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E33
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2033%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E34
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2034%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E35
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2035%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E36
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2036%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E37
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2037%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E38
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2038%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E39
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2039%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E40
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2040%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E41
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2041%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E42
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2042%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E43
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2043%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E44
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2044%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E45
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2045%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E46
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2046%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E47
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2047%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E48
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2048%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E49
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2049%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E50
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2050%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E51
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2051%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T1 E52
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-1-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2052%20temporada%201%20Fina.mp4
+#EXTINF:0,Onegai My Melody - T2 E01
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%201%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E02
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%202%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E03
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%203%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E04
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%204%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E05
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%205%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E06
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%206%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E07
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%207%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E08
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%208%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E09
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%209%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E10
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2010%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E11
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2011%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E12
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2012%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E13
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2013%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E14
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2014%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E15
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2015%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E16
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2016%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E17
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2017%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E18
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2018%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E19
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2019%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E20
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2020%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E21
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2021%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E22
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2022%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E23
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2023%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E24
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2024%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E25
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2025%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E26
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2026%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E27
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2027%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E28
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2028%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E29
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2029%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E30
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2030%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E31
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2031%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E32
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2032%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E33
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2033%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E34
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2034%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E35
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2035%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E36
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2036%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E37
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2037%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E38
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/onegai%20my%20melody%20cap%C3%ADtulo%2038%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E39
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2039%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E40
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2040%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E41
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2041%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E42
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2042%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E43
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2043%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E44
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2044%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E45
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2045%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E46
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2046%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E47
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2047%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E48
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2048%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E49
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2049%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E50
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2050%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E51
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2051%20temporada.mp4
+#EXTINF:0,Onegai My Melody - T2 E52
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/onegai-my-melody-temporada-2-espanol/Onegai%20my%20melody%20cap%C3%ADtulo%2052%20%20final%20temporada.mp4
+#EXTINF:0,El mundo de Hello Kitty - Temporada 1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/El%20Mundo%20de%20Hello%20Kitty%201%C2%AA%20Temporada%20Completa%20%2836%20episodios%20-%2025%20minutos%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 2
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/El%20Mundo%20de%20Hello%20Kitty%202%C2%AA%20Temporada%20Completa%20%2811%20episodios%20y%2012%20videoclipes%20-%2035%20minutos%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - Badtz-maru
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20Badtz-Maru%20El%20Mundo%20de%20Hello%20Kitty%20-%203%C2%AA%20Temporada%20%28Especial%2045%20A%C3%B1os%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - Chococat
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20Chococat%20El%20Mundo%20de%20Hello%20Kitty%20-%203%C2%AA%20Temporada%20%28Especial%2045%20A%C3%B1os%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - Keroppi
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20Keroppi%20El%20Mundo%20de%20Hello%20Kitty%20-%203%C2%AA%20Temporada%20%28Especial%2045%20A%C3%B1os%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - My Melody
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20My%20Melody%20El%20Mundo%20de%20Hello%20Kitty%20-%203%C2%AA%20Temporada%20%28Especial%2045%20A%C3%B1os%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - Little Twin Stars
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20LittleTwinStars%20El%20Mundo%20de%20Hello%20Kitty%20-%203%C2%AA%20Temporada%20%28Especial%2045%20A%C3%B1os%29.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 3 - Fiesta
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Combo%20Hello%20Kitty%20y%20Amigos%20-%20Fiesta%20El%20Mundo%20de%20Hello%20Kitty%20-%20Especial%2045%20A%C3%B1os.mkv
+#EXTINF:0,El mundo de Hello Kitty - Temporada 4
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/El%20Mundo%20de%20Hello%20Kitty%204%C2%AA%20Temporada%20Completa%20%2811%20episodios%20y%207%20videoclips%20-%2022%20minutos%29.mkv
+#EXTINF:0,Hello Kitty y amigos - Chef Star
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20%26%20Amigos%20Chef%20Star%20-%20TEMPORADA%20COMPLETA.mkv
+#EXTINF:0,Hello Kitty Fun - Temporada 1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20Fun%201%C2%AA%20TEMPORADA%20COMPLETA.mkv
+#EXTINF:0,Hello Kitty Fun - Temporada 2
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20Fun%202%C2%AA%20TEMPORADA%20COMPLETA.mkv
+#EXTINF:0,Hello Kitty Fun - Temporada 3
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20Fun%203%C2%AA%20TEMPORADA%20COMPLETA%20-%20SPORTS.mkv
+#EXTINF:0,Hello Kitty and Friends Supercute Adventures - Temporada 1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20and%20Friends%20-%20Supercute%20Adventures%201%C2%AA%20TEMPORADA%20COMPLETA%20-%2048%20min%20de%20diversi%C3%B3n.mkv
+#EXTINF:0,Hello Kitty and Friends Supercute Adventures - Temporada 2
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20and%20Friends%20-%20Supercute%20Adventures%202%C2%AA%20TEMPORADA%20COMPLETA%20-%2050%20min%20de%20diversi%C3%B3n.mkv
+#EXTINF:0,Hello Kitty and Friends Supercute Adventures - Temporada 3
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/hello-kitty-and-friends-supercute-adventures-2a-temporada-completa-50-min-de-diversion/Hello%20Kitty%20and%20Friends%20-%20Supercute%20Adventures%203%C2%AA%20TEMPORADA%20COMPLETA%20-%2052%20min%20de%20diversi%C3%B3n.mkv
+#EXTINF:0,Bumpy y sus amigos - T1 E1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x01.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E2
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x02.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E3
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x03.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E4
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x04.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E5
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x05.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E6
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x06.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E7
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x07.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E8
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x08.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E9
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x09.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E10
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x10.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E11
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x11.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E12
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x12.mp4
+#EXTINF:0,Bumpy y sus amigos - T1 E13
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x13.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x01.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E2
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x02.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E3
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x03.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E4
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x04.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E5
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x05.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E6
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x06.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E7
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x07.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E8
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x08.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E9
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x09.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E10
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x10.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E11
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x11.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E12
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x12.mp4
+#EXTINF:0,Bumpy y sus amigos - T2 E13
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x13.mp4
+#EXTINF:0,Mickey Mouse - Donald y Pluto
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Mickey%20Mouse%20-%20Donald%20y%20Pluto.mp4
+#EXTINF:0,Mickey Mouse - El cuento de navidad de Mickey
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Mickey%20Mouse%20-%20El%20cuento%20de%20navidad%20de%20Mickey.mp4
+#EXTINF:0,Mickey Mouse - La caravana de Mickey
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Mickey%20Mouse%20-%20La%20caravana%20de%20Mickey.mp4
+#EXTINF:0,Pato Donald - Abeja guardiana
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Abeja%20guardiana.MP4
+#EXTINF:0,Pato Donald - Árbol va
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Arbol%20va.MP4
+#EXTINF:0,Pato Donald - Autocontrol
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Autocontrol.mp4
+#EXTINF:0,Pato Donald - Buenos exploradores
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Buenos%20exploradores.MP4
+#EXTINF:0,Pato Donald - Chef Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Chef%20Donald.mp4
+#EXTINF:0,Pato Donald - Disfrutar por una moneda
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Disfrutar%20por%20una%20moneda.MP4
+#EXTINF:0,Pato Donald - Don Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Don%20Donald.MP4
+#EXTINF:0,Pato Donald - Donald en el país de las matematicas
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Donald%20en%20el%20pa%C3%ADs%20de%20las%20matematicas.mp4
+#EXTINF:0,Pato Donald - Dulce o truco
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Dulce%20o%20truco.mp4
+#EXTINF:0,Pato Donald - El Campeon del Hockey
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20Campeon%20del%20Hockey.mp4
+#EXTINF:0,Pato Donald - El Pato Donald no puede dormir
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20Pato%20Donald%20no%20puede%20dormir.mp4
+#EXTINF:0,Pato Donald - El Pato Donald y las ardillas
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20Pato%20Donald%20y%20las%20ardillas.mp4
+#EXTINF:0,Pato Donald - El amor es cosa de dos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20amor%20es%20cosa%20de%20dos.mp4
+#EXTINF:0,Pato Donald - El avestruz de Donald 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20avestruz%20de%20Donald.MP4
+#EXTINF:0,Pato Donald - El dia de suerte de Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20dia%20de%20suerte%20de%20Donald.MP4
+#EXTINF:0,Pato Donald - El dia libre de Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20dia%20libre%20de%20Donald.MP4
+#EXTINF:0,Pato Donald - El remachador
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20remachador.mp4
+#EXTINF:0,Pato Donald - El viejo McDonald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20El%20viejo%20McDonald.MP4
+#EXTINF:0,Pato Donald - Huevos de oro
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Huevos%20de%20oro.mp4
+#EXTINF:0,Pato Donald - Inventos modernos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Inventos%20modernos.MP4
+#EXTINF:0,Pato Donald - Jefe de bomberos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Jefe%20de%20bomberos.mp4
+#EXTINF:0,Pato Donald - La partida de golf de Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20La%20partida%20de%20golf%20de%20Donald.mp4
+#EXTINF:0,Pato Donald - Limpiadores de Ventanas
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Limpiadores%20de%20Ventanas.MP4
+#EXTINF:0,Pato Donald - Los sobrinitos de Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Los%20sobrinitos%20de%20Donald.MP4
+#EXTINF:0,Pato Donald - Pato curado
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Pato%20curado.mp4
+#EXTINF:0,Pato Donald - Picaros Juguetes
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Picaros%20Juguetes.mp4
+#EXTINF:0,Pato Donald - Picnic en la playa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Picnic%20en%20la%20playa.mp4
+#EXTINF:0,Pato Donald - Te para doscientos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Te%20para%20doscientos.mp4
+#EXTINF:0,Pato Donald - Vacaciones de Donald
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Vacaciones%20de%20Donald.MP4
+#EXTINF:0,Pato Donald y el gorila
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20y%20el%20gorila.MP4
+#EXTINF:0,Pato Donald y Goofy - La caza del Zorro
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20y%20Goofy%20-%20La%20caza%20del%20Zorro.MP4
+#EXTINF:0,Pato Donald y Goofy - Los pegacarteles
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20y%20Goofy%20-%20Los%20pegacarteles.MP4
+#EXTINF:0,Pato Donald y Goofy - Marineros en apuros
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20y%20Goofy%20-%20Marineros%20en%20apuros.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E1 Reptiles En El Jardín De Las Rosas
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2001%20-%20Reptiles%20En%20El%20Jard%C3%ADn%20De%20Las%20Rosas.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E2 Los Tramposos Mentirosos Intrigantes Koopas Ninjas Gig
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2002%20-%20Los%20Tramposos%20Mentirosos%20Intrigantes%20Koopas%20Ninjas%20Gig.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E3 Pequeños Diablillos Viajan Por El Tiempo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2003%20-%20Peque%C3%B1os%20Diablillos%20Viajan%20Por%20El%20Tiempo.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E4 La bella Kootie Pie
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2004%20-%20La%20bella%20Kootie%20Pie.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E5 Reinado Tormentoso
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2005%20-%20Reinado%20Tormentoso.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E6 Nunca Koopaconfies En Un Koopa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2006%20-%20Nunca%20Koopaconfies%20En%20Un%20Koopa.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E7 Mima A Tu Mami Momia Mario
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2007%20-%20Mima%20A%20Tu%20Mami%20Momia%2C%20Mario.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E8 Desventuras De Unas Niñeras
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2008%20-%20Desventuras%20De%20Unas%20Ni%C3%B1eras.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E9 Una Aventura Total Mente Mágica
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2009%20-%20Una%20Aventura%20Total%20Mente%20M%C3%A1gica.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E10 Que Hermanos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2010%20-%20Que%20Hermanos.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E11 La Princesa Seta Para La Presidencia
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2011%20-%20La%20Princesa%20Seta%20Para%20La%20Presidencia.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E12 Papzilla
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2012%20-%20Papzilla.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E13 Kootie Pie y El Rock And Roll
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2013%20-%20Kootie%20Pie%20y%20El%20Rock%20And%20Roll.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E14 La Sirena Fea
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2014%20-%20La%20Sirena%20Fea.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E15 Baile En Koopa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2015%20-%20Baile%20En%20Koopa.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E16 Las Desventuras del Buen Fontanero
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2016%20-%20Las%20Desventuras%20del%20Buen%20Fontanero.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E17 Los Enmascarados Demoledores
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2017%20-%20Los%20Enmascarados%20Demoledores.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E18 Enemigo Publico Numero 1
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2018%20-%20Enemigo%20Publico%20Numero%201.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E19 Todo el Mundo Arriba
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2019%20-%20Todo%20el%20Mundo%20Arriba.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E20 Rumores de Hongo
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2020%20-%20Rumores%20de%20Hongo.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E21 7 Continentes para 7 Koopas
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2021%20-%207%20Continentes%20para%207%20Koopas.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E22 Colores Verdaderos
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2022%20-%20Colores%20Verdaderos.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E23 Super Koopa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2023%20-%20Super%20Koopa.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E24 Reciclen Koopa
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2024%20-%20Reciclen%20Koopa.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E25 La Vida es Difícil
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
+#EXTINF:0,Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
